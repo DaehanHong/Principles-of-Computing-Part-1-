@@ -1,0 +1,22 @@
+0
+
+100+100+?+100+100
+
+100*d
+
+x
+
+1000+2000+3000+...+1000n
+
+5*d*(d+10)
+
+No, the graph does not approach a straight line.
+
+e 
+0.095d
+
+1.15^(n-1)
+
+The cost of an upgrade in Cookie Clicker grows faster than the cost of a bribe in the greedy boss scenario.
+
+x
